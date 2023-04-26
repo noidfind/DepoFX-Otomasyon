@@ -1,0 +1,8 @@
+Hocam, Adoconnection'da sadece .mdb bıraktıgımda Studio22'de 
+dosyanın olmadıgını söyleyip bazen hata verebiliyor
+eğer veri tabanı gelmez ise sebebi budur. 
+Saygılarımla. 
+Mustafa Çağrı Açıkgöz
+19010208022
+Bartın Üniversitesi
+Yönetim Bilişim Sistemleri (i.ö)3.sınıf öğrencisi
